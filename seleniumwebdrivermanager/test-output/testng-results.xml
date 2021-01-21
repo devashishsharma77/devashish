@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19906" started-at="2021-01-21T15:54:39 IST" finished-at="2021-01-21T15:54:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19906" started-at="2021-01-21T15:54:39 IST" finished-at="2021-01-21T15:54:59 IST">
+      <class name="exceldatainput.datadriven">
+        <test-method status="PASS" signature="demoClass(java.lang.String, java.lang.String)[pri:0, instance:exceldatainput.datadriven@7096b474]" name="demoClass" duration-ms="17561" started-at="2021-01-21T15:54:41 IST" data-provider="testdata" finished-at="2021-01-21T15:54:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2devashishgr8@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yolo12354]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoClass -->
+        <test-method status="PASS" signature="ProgramTermination()[pri:0, instance:exceldatainput.datadriven@7096b474]" name="ProgramTermination" is-config="true" duration-ms="712" started-at="2021-01-21T15:54:59 IST" finished-at="2021-01-21T15:54:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProgramTermination -->
+      </class> <!-- exceldatainput.datadriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
